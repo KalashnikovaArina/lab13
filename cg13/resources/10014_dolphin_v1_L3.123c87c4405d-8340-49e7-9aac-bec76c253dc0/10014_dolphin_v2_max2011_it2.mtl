@@ -1,0 +1,12 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 21.04.2011 08:40:40
+
+newmtl 01___Default
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.698039 0.698039 0.698039
+	Ks 0.000000 0.000000 0.000000
+	d 1.000000
+	illum 2
+	Ns 9.84916
+	map_Ka 10014_dolphin_v1_Diffuse.jpg
+	map_Kd 10014_dolphin_v1_Diffuse.jpg
